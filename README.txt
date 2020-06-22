@@ -11,5 +11,3 @@ index.html - The Index document for the website.
 
 
 [Click Here To view the app](http://d2hp0uximfp42.cloudfront.net/index.html)
-
-## ScreenShots
