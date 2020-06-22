@@ -21,6 +21,7 @@ index.html - The Index document for the website.
 ![Alt text](https://github.com/genedy377/StaticAWS/blob/master/screenshots/Security.png)
 4. Config S3
 ![Alt text](https://github.com/genedy377/StaticAWS/blob/master/screenshots/hosting.png)
+***
 5.Distribute Website via CloudFront
 ![Alt text](https://github.com/genedy377/StaticAWS/blob/master/screenshots/CloudFront.png)
 6.Final Product
