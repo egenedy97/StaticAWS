@@ -13,3 +13,5 @@ index.html - The Index document for the website.
 [Click Here To view the app](http://d2hp0uximfp42.cloudfront.net/index.html)
 
 ## ScreenShots
+![Alt text](https://github.com/genedy377/StaticAWS/blob/master/screenshots/Screenshot_3.png)
+![Alt text](https://github.com/genedy377/StaticAWS/blob/master/screenshots/addingfiles.png)
