@@ -12,6 +12,8 @@ index.html - The Index document for the website.
 
 [Click Here To view the app](http://d2hp0uximfp42.cloudfront.net/index.html)
 
+[Review Submission](https://review.udacity.com/#!/reviews/2383649)
+
 ## ScreenShots
 1. Creating S3 Bucket
 ![Alt text](https://github.com/genedy377/StaticAWS/blob/master/screenshots/Screenshot_3.png)
