@@ -13,5 +13,18 @@ index.html - The Index document for the website.
 [Click Here To view the app](http://d2hp0uximfp42.cloudfront.net/index.html)
 
 ## ScreenShots
+1. Creating S3 Bucket
 ![Alt text](https://github.com/genedy377/StaticAWS/blob/master/screenshots/Screenshot_3.png)
+2. Adding Files
 ![Alt text](https://github.com/genedy377/StaticAWS/blob/master/screenshots/addingfiles.png)
+3. Secure Bucket 
+![Alt text](https://github.com/genedy377/StaticAWS/blob/master/screenshots/Security.png)
+4. Config S3
+![Alt text](https://github.com/genedy377/StaticAWS/blob/master/screenshots/hosting.png)
+5.Distribute Website via CloudFront
+![Alt text](https://github.com/genedy377/StaticAWS/blob/master/screenshots/CloudFront.png)
+6.Final Product
+![Alt text](https://github.com/genedy377/StaticAWS/blob/master/screenshots/Final.png)
+
+
+
